@@ -2,7 +2,7 @@ pool:
   vmImage: 'ubuntu-16.04'
 
 trigger:
-  - feature/*
+  - ci2
 
 steps:
   - task: CopyFiles@2
