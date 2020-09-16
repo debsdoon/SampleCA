@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MySession/ReactorLondon/_apis/build/status/debsdoon.SampleCA?branchName=master)](https://dev.azure.com/MySession/ReactorLondon/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
