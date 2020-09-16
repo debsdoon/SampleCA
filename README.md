@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/MySession/BrandNew/_apis/build/status/debsdoon.SampleCA?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/MySession/BrandNew/_build/latest?definitionId=4&branchName=refs%2Fpull%2F1%2Fmerge)
+
 
 # Microsoft.Github CI Demo
 
